@@ -1,0 +1,10 @@
+[Unit]
+Description=HTTP web server for Real-Time Embedded Systems project
+
+[Service]
+ExecStart=/home/roozmehr/Homeworks/RTEmbSys/Project/WebServer/build/bin/httpServer 0.0.0.0 8089 /home/roozmehr/Homeworks/RTEmbSys/Project/WebServer/build/bin/ 1 block
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

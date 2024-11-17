@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/httpServer.dir/src/httpServer.cpp.o -o bin/httpServer   -L/usr/local/lib/mysql  -Wl,-rpath,/usr/local/lib/mysql -lmysqlclient -lmariadb -lpthread 

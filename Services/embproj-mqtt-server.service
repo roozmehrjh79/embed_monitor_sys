@@ -1,0 +1,10 @@
+[Unit]
+Description=MQTT server for Real-Time Embedded Systems project
+
+[Service]
+ExecStart=/home/roozmehr/Homeworks/RTEmbSys/Project/mqttServer/build/bin/MQTT_Server
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

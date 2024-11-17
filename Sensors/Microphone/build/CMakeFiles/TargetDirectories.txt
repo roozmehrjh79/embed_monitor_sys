@@ -1,0 +1,3 @@
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Microphone/build/CMakeFiles/MicMonitor.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Microphone/build/CMakeFiles/edit_cache.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Microphone/build/CMakeFiles/rebuild_cache.dir

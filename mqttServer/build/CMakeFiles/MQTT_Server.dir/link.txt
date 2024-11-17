@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/MQTT_Server.dir/src/mqtt_server.c.o -o bin/MQTT_Server   -L/usr/local/lib/mysql  -Wl,-rpath,/usr/local/lib/mysql -lmysqlclient -lmariadb -lpaho-mqtt3c 

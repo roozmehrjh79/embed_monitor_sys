@@ -1,0 +1,3 @@
+/home/roozmehr/Homeworks/RTEmbSys/Project/mqttClient/build/CMakeFiles/MQTT_Client.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/mqttClient/build/CMakeFiles/edit_cache.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/mqttClient/build/CMakeFiles/rebuild_cache.dir

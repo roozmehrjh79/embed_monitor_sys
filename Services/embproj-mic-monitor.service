@@ -1,0 +1,12 @@
+[Unit]
+Description=Microphone monitor for Real-Time Embedded Systems project
+
+[Service]
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+User=roozmehr
+ExecStart=/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Microphone/build/bin/MicMonitor
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

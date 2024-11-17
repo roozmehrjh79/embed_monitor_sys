@@ -1,0 +1,3 @@
+/home/roozmehr/Homeworks/RTEmbSys/Project/WebServer/build/CMakeFiles/httpServer.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/WebServer/build/CMakeFiles/edit_cache.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/WebServer/build/CMakeFiles/rebuild_cache.dir

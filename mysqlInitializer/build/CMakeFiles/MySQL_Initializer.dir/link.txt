@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/MySQL_Initializer.dir/src/mysqlInitializer.c.o -o bin/MySQL_Initializer   -L/usr/local/lib/mysql  -Wl,-rpath,/usr/local/lib/mysql -lmysqlclient -lmariadb 

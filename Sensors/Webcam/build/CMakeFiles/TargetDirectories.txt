@@ -1,0 +1,3 @@
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Webcam/build/CMakeFiles/WebcamMonitor.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Webcam/build/CMakeFiles/edit_cache.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/Sensors/Webcam/build/CMakeFiles/rebuild_cache.dir

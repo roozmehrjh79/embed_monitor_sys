@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/MQTT_Client.dir/src/mqtt_client.c.o -o bin/MQTT_Client  -lpaho-mqtt3c 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MicMonitor.dir/src/MicMonitor.cpp.o -o bin/MicMonitor   -L/usr/local/lib/mysql  -Wl,-rpath,/usr/local/lib/mysql -lmysqlclient -lmariadb -lasound 

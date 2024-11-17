@@ -1,0 +1,3 @@
+/home/roozmehr/Homeworks/RTEmbSys/Project/mysqlInitializer/build/CMakeFiles/MySQL_Initializer.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/mysqlInitializer/build/CMakeFiles/edit_cache.dir
+/home/roozmehr/Homeworks/RTEmbSys/Project/mysqlInitializer/build/CMakeFiles/rebuild_cache.dir
